@@ -1,7 +1,4 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
-# Your Project Title Here
+# Bankmarketing AutoML + Pipelines Experiment
 
 *TODO:* Write an overview to your project.
 
@@ -12,7 +9,4 @@
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+[![](https://i9.ytimg.com/vi_webp/iFYdZ9KSoMw/mqdefault.webp?time=1605054900000&sqp=CLTjrP0F&rs=AOn4CLAisOFqQS19_SuiJPc9oXzt741z6A)](https://youtu.be/iFYdZ9KSoMw)
