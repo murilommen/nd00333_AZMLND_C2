@@ -59,3 +59,8 @@ And finally, the widget of the ran pipeline via the REST endpoint can be seen in
 
 ## Screen Recording
 [![](https://i9.ytimg.com/vi_webp/iFYdZ9KSoMw/mqdefault.webp?time=1605054900000&sqp=CLTjrP0F&rs=AOn4CLAisOFqQS19_SuiJPc9oXzt741z6A)](https://youtu.be/iFYdZ9KSoMw)
+
+## Next steps
+
+In the future, it would be a great idea to see this Pipeline approach working with a non-AutoML approach, to have the benefits of, for instance, preparing the data - with heavy-duty transformations - with one specific cluster dedicated to it, and the other ones with other types of machines - for example, training with GPU-based clusters. I would also improve this model by running the Hyperdrive package and search for optimal Hyperparameters and see how accuracte this benchmark model can get. Lastly, I would take the registered model as an Artifact with, for example, Azure DevOps, and create a Continuous Deployment pipeline to always have it ready with the Endpoint everytime a new model is logged. And to go even further, it'd be nice to have every git-commit command to trigger a Continuous Integration pipeline, that would then register the new version of the model, closing the DevOps lifecycle.
+Something that may fall beyond the scope of this project, would be to monitor the Model's behaviour, decisions and data distribution, which are also crucial for a real-world MLOps scenario.
